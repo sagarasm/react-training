@@ -27,7 +27,7 @@ export default function RootLayout({ children }) {
             <div className="col-md-3">
               <Navigation />
             </div>
-            <div className="col-md-9">{children}</div>
+            <div className="col-md-9 pt-4">{children}</div>
           </div>
         </div>
       </body>

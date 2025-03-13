@@ -17,13 +17,13 @@ export default function Navigation() {
           </Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link text-white" href="/services">
-            Services
+          <Link className="nav-link text-white" href="/props">
+            Props in React
           </Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link text-white" href="/contact">
-            Contact
+          <Link className="nav-link text-white" href="/hooks">
+            Hooks
           </Link>
         </li>
       </ul>
