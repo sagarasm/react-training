@@ -9,7 +9,7 @@ export default function Hooks() {
         <ul>
             <li>Props are read-only (immutable) and cannot be modified by the child component.</li>
             <li>They are passed as attributes to a component in JSX</li>
-            <li>The child component receives them as an argument in the function</li>
+            <li>The child component receives them as an argument in the function....</li>
         </ul>
         <MyProps />
         </>
