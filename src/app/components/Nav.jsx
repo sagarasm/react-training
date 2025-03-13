@@ -22,6 +22,11 @@ export default function Navigation() {
           </Link>
         </li>
         <li className="nav-item">
+          <Link className="nav-link text-white" href="/events">
+            Events in React
+          </Link>
+        </li>
+        <li className="nav-item">
           <Link className="nav-link text-white" href="/hooks">
             Hooks
           </Link>
