@@ -19,9 +19,6 @@ export default function useEffectHook() {
           <li>
             <Link href="/hooks/useEffectHook/UserList">User List</Link>
           </li>
-          <li>
-            <Link href="/hooks/useEffectHook/WindowSize">Window Size</Link>
-          </li>
         </ul>
       </div>
     </>
